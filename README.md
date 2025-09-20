@@ -122,13 +122,6 @@ Badges:
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirrrezaZ&show_icons=true&theme=tokyonight)](https://github.com/AmirrrezaZ)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrrezaZ&layout=compact&theme=tokyonight)](https://github.com/AmirrrezaZ)
-
----
-
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-zibafar-725139199)
