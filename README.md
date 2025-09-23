@@ -38,7 +38,6 @@ I turn messy, high-dimensional data into production AI systems across **computer
 **Data Viz:** Matplotlib • Plotly • Seaborn  
 **DS/Stats:** NumPy • Pandas • SciPy • scikit-learn
 
-Badges:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
