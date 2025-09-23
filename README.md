@@ -28,13 +28,6 @@ I turn messy, high-dimensional data into production AI systems across **computer
 
 ---
 
-## 🔭 Current Focus
-
-- **Precision Agriculture:** disease detection, field boundary mapping, LULC at scale  
-- **3D Vision for Industry:** robust volume/geometry estimation in production  
-- **Autonomous Trading:** multi-signal forecasting, latency-aware execution
-
----
 
 ## 🛠️ Tech Stack
 
@@ -64,68 +57,9 @@ Badges:
 
 ---
 
-## 🧪 Experience Snapshot
-
-**Machine Learning Engineer — FANAP Advanced Technologies Lab (ZLab)** *(Sep 2022 – Present, Tehran)*  
-- Built **CV pipelines** for satellite imagery: segmentation, SR (8×), LULC, and ag-recommendations  
-- Created **NLP BERT** pipeline for symptom-to-disease classification (90%+ acc)  
-- Delivered **3D mining** solutions for stockpile volumetrics with SAM-assisted point-cloud processing  
-- Prototyped **real-time FX trading** using deep sequence models and macro features (~75% win rate)
-
-**Course Instructor — Faradars** *(Aug–Nov 2022)*  
-- Taught **noise identification & filtering** (Kalman/Wiener/CNN/adaptive filtering) in **MATLAB** (avg **4.4/5** rating)  
-- Course: [Filtering Methods in MATLAB (FVMA101)](https://faradars.org/courses/filtering-methods-in-matlab-fvma101)
-
----
-
-## 🧬 Selected Projects
-
-- **Nutritional Analysis from Food Images (2025):**  
-  Multi-head DL model on **Nutrition5k**: EfficientNet backbone + classification head + mass-regression heads → **comparable** portion-independent & direct calorie estimation.
-
-- **Field Boundary Delineation:**  
-  **U-Net + Real-ESRGAN** on Sentinel-2, score **0.36** (vs 0.50 benchmark).  
-
-- **Sentinel-2 Super-Resolution:**  
-  **Swin-IR**, **8×** upscaling for downstream ag-analytics.
-
-- **LULC & Irrigation Status:**  
-  **NDVI time-series** modeling (**80%+** accuracy) for crop monitoring.
-
-- **Crop Disease (Text) with BERT:**  
-  **90%+** accuracy from symptom descriptions.
-
-> 👉 Repos are being cleaned and open-sourced. Ping me if you want early access or demos.
-
----
-
-## 📚 Publications
-
-- **Modeling the Ideal Pathway of Plant-Loaded Projectiles for Effective Aerial Reforestation** — *under review*, Journal of Guidance, Control, and Dynamics (2024).  
-- **Modeling the Optimal Trajectory of Plant-Loaded Projectiles for Efficient Aerial Reforestation** — M.Sc. Thesis, Amirkabir Univ. (2023, Farsi).  
-- **A Review on Airborne Collision Avoidance Systems** — 20th IC IAS (2022, Farsi).  
-- **Optimization and Design of General Aviation Aircraft Wings Using NSGA-II** — *Journal of Aircraft Engineering* (2021, Farsi), [DOI: 10.22034/joae.2021.303370.1055](https://doi.org/10.22034/joae.2021.303370.1055) • [Conference version (2020)](https://civilica.com/doc/1362340/)  
-- Unofficial copies: [Google Drive](https://drive.google.com/drive/folders/12n4GRY7kvkGPtKPngPdJ1jpu95YvTVzA?usp=sharing)
-
----
-
-## 🎓 Education
-
-- **M.Sc., Flight Dynamics & Control** — Amirkabir University of Technology *(2021–2023)* — GPA **3.77/4 (17.26/20)**  
-- **B.A., Aerospace Engineering** — IAU, Science & Research Branch *(2016–2020)* — GPA **15.29/20**
-
----
-
-## 🏆 Achievements
-
-- **45th** Nationwide rank in Iran M.Sc. Entrance Exam (Aerospace Engineering)
-
----
-
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-zibafar-725139199)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzibafar1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirrrezaZ)
 
-> **"The best way to predict the future is to create it."** — *Abraham Lincoln*
