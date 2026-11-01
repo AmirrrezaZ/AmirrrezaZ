@@ -1,64 +1,143 @@
-# 👋 Hello, World! I'm Amirreza Zibafar 🚀
+<div align="center">
 
-I turn messy, high-dimensional data into production AI systems across **computer vision**, **NLP**, and **time-series forecasting**. I’ve shipped models from **satellite imagery** (precision agriculture) to **3D point clouds** (smart mining) and **real-time trading**, closing the loop from research → deployment → measurable impact.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amirreza%20Zibafar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Machine%20Learning%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Amirreza Zibafar - Data Scientist and Machine Learning Engineer"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Vision+%C2%B7+NLP+%C2%B7+Tabular+%C2%B7+Time+Series;From+raw+data+to+a+deployed+product;PyTorch+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL+%E2%86%92+React)](https://github.com/AmirrrezaZ)
 
-## 🌟 Highlights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-zibafar-725139199)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzibafar1@gmail.com)
+![Open to work](https://img.shields.io/badge/Open_to-Data_Science_%26_ML_roles-2ea44f?style=for-the-badge)
 
-- **Precision Agriculture (CV):**  
-  • Field boundary delineation with **U-Net + Real-ESRGAN** on Sentinel-2 (score **0.36** vs. 0.50 benchmark)  
-  • **8× super-resolution** (Swin-IR) for Sentinel-2 imagery  
-  • **NDVI time-series LULC/irrigation** classification (**80%+ accuracy**)  
-  • Crop recommendation using **Landsat + SoilGrids + weather** fusion
-
-- **Smart Mining (3D Vision):**  
-  • **Stockpile volume measurement** from 3D sensors using **SAM-assisted point-cloud** workflows
-
-- **NLP for AgTech:**  
-  • **Text-based crop disease diagnosis** with **BERT** (**90%+ accuracy**) from symptom descriptions
-
-- **AI-Powered Finance:**  
-  • **Real-time FX system** for market prediction & execution (**~75% win rate** on internal evals)
-
-- **Bio/Health ML:**  
-  • Deep models for **cancer drug synergy** prediction
-
-> Background: M.Sc. Flight Dynamics & Control (Amirkabir University of Technology). I like models that respect physics, data, and deployment constraints.
+</div>
 
 ---
 
+## 👤 About
 
-## 🛠️ Tech Stack
+I'm a **data scientist and ML engineer with 4 years of applied experience**. I solve problems on images, text, tables and time series, and I build the whole path myself: data pipelines, modelling, an API, a database and a UI.
 
-**AI/ML:** PyTorch • TensorFlow • Keras  
-**Langs:** Python • MATLAB  
-**MLOps & Infra:** Docker • Git • Linux • LaTeX  
-**Web Apps:** FastAPI • React • Streamlit  
-**Data Viz:** Matplotlib • Plotly • Seaborn  
-**DS/Stats:** NumPy • Pandas • SciPy • scikit-learn
+I trained as an aerospace engineer (M.Sc., GPA 3.77/4) and I'm used to models of physical systems with noisy, incomplete data. I care about **honest evaluation**: held-out test sets, spatially separated splits, and comparison against published baselines.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/Matlab-%23F7B800.svg?style=for-the-badge&logo=matlab&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-%2300D2FF.svg?style=for-the-badge&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B47.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2323172D.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%2300A4D7.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+<tr>
+<td align="center" width="25%"><h3>4 yrs</h3>applied ML<br/>in production teams</td>
+<td align="center" width="25%"><h3>6+</h3>models shipped<br/>into a live platform</td>
+<td align="center" width="25%"><h3>4</h3>data modalities<br/>vision · text · tabular · time series</td>
+<td align="center" width="25%"><h3>E2E</h3>model → API → DB → UI</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let’s Connect
+## 🧰 Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-zibafar-725139199)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzibafar1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirrrezaZ)
+<div align="center">
 
+| | |
+|---|---|
+| **Modelling** | PyTorch · TensorFlow · Keras · scikit-learn · Transformers · Optuna |
+| **Data** | Python · NumPy · Pandas · SciPy · SQL / PostgreSQL |
+| **Statistics & evaluation** | Cross-validation · spatial hold-out · F1 / IoU / PQ · baselines · error analysis |
+| **Engineering** | FastAPI · React · Docker · Linux · Git |
+| **Visualisation** | Matplotlib · Seaborn · Plotly · Streamlit |
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,fastapi,react,postgres,docker,linux,git&perline=12" alt="Skills"/>
+
+</div>
+
+---
+
+## 🧭 What I can solve
+
+| 🖼️ Computer vision | 📝 NLP | 📊 Tabular & forecasting | 🧪 Bio & finance |
+|---|---|---|---|
+| Segmentation, super-resolution, multi-task regression | Text classification with BERT, vision-language models | Feature engineering, time-series transformers, forecast fusion | Drug-synergy prediction, real-time FX prediction |
+
+---
+
+## 🚀 Featured work
+
+> All scores are measured on held-out data.
+
+### 🛰️ Field boundary segmentation (computer vision)
+U-Net with an EfficientNet-B7 backbone, a 4-class output and watershed post-processing, tuned with Optuna.
+
+| Model | Pixel IoU | Panoptic quality |
+|---|:-:|:-:|
+| **Mine** | **0.858** | **0.223** |
+| FTW (published baseline) | 0.752 | 0.176 |
+| Delineate-Anything v2 | 0.677 | 0.157 |
+
+Adapting the model to a new region meant retraining **580 of 67 M parameters** on 1,000 tiles.
+
+### 🌱 Irrigation & land-cover classification (time series, transformers)
+A pretrained Presto transformer fine-tuned on monthly multi-sensor series.
+
+| Task | Result |
+|---|---|
+| Irrigation (2 classes) | Accuracy **0.82**, F1 0.84 / 0.80 |
+| Land cover (11 classes, 2.39 M unseen test pixels) | Accuracy **0.825**, macro-F1 **0.786** |
+| Crops (11 classes) | F1 **0.75** |
+| Area vs. official statistics | **29%** error vs 134% for an embedding baseline |
+
+### 🔍 8× super-resolution (SwinIR)
+Reconstructs 1.25 m imagery from free 10 m Sentinel-2 scenes.
+
+### 🍽️ dish2calories: nutrition from a photo
+Re-implemented Google's Nutrition5k with a lighter EfficientNet-B0. It beats the baseline on calories (**MAE 67.7 vs 70.6**) and mass (**28.6 vs 40.4**).
+
+### 🌦️ Multimodel weather forecasting
+Neural fusion of **GraphCast, FuXi and FCN3** for regional medium-range forecasts.
+
+### 📝 Crop disease diagnosis (NLP and multimodal)
+A BERT classifier on symptom text (**90%+ accuracy**) and a vision-language model that aligns visual symptoms with disease descriptions.
+
+---
+
+## 🏗️ How I ship: end to end
+
+```mermaid
+flowchart LR
+    A[Raw data<br/>images · text · tables · series] --> B[Cleaning &<br/>feature engineering]
+    B --> C[Modelling<br/>PyTorch · sklearn]
+    C --> D[Evaluation<br/>held-out · baselines]
+    D --> E[FastAPI<br/>service]
+    E --> F[(PostgreSQL)]
+    E --> G[React<br/>dashboard]
+    E --> H[Docker<br/>deployment]
+```
+
+Features I've built around models include a results cache, so repeated questions are never recomputed, plus run queues with progress, confidence scores on predictions, and CSV, GeoTIFF and GeoPackage exports.
+
+---
+
+## 💼 Experience
+
+| | |
+|---|---|
+| **Machine Learning Engineer**, FANAP Advanced Technologies Lab (ZLab) · *2022 → now* | Models for classification, segmentation, super-resolution and forecasting, delivered into a production analytics platform. |
+| **Course Instructor**, Faradars · *2022* | Designed and taught a signal-filtering course (Kalman, Wiener, adaptive filters, CNNs), rated **4.4/5**. |
+
+## 🎓 Education
+
+- **M.Sc. Flight Dynamics & Control**, Amirkabir University of Technology, GPA **3.77/4**
+- **B.Sc. Aerospace Engineering**, Islamic Azad University
+
+## 📚 Publications
+
+- *Optimization and Design of General Aviation Aircraft Wings Using NSGA-II*, Journal of Aircraft Engineering, 2021 · [DOI](https://doi.org/10.22034/joae.2021.303370.1055)
+- *Modeling the Ideal Pathway of Plant-Loaded Projectiles for Effective Aerial Reforestation*, 2024
+- *A Review on Airborne Collision Avoidance Systems*, 2022
+
+---
+
+<div align="center">
+
+### Let's build something
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-zibafar-725139199)
+[![Email](https://img.shields.io/badge/Write_me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzibafar1@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+
+</div>
